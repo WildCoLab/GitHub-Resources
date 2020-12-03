@@ -7,6 +7,7 @@ https://guides.github.com/activities/hello-world/ Start here, get setup with wit
 
 https://happygitwithr.com/ The getting set up with the R and GutHub. These are th materials developed with UBC's Stat545 course. 
 
+https://learning.nceas.ucsb.edu/2020-02-RRCourse/version-control-with-git-and-github.html Some nice sections on collaboration in GitHub nested within a course on Reproducible Research!
 
 ## Thinking about lab workflows
 
